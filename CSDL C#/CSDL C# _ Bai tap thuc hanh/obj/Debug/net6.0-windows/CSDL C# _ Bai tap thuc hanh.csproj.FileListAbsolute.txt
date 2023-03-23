@@ -1,0 +1,17 @@
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\bin\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.exe
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\bin\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.deps.json
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\bin\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.runtimeconfig.json
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\bin\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.dll
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\bin\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.pdb
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.csproj.AssemblyReference.cache
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL_C____Bai_tap_thuc_hanh.Form_Main.resources
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.csproj.GenerateResource.cache
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.GeneratedMSBuildEditorConfig.editorconfig
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.AssemblyInfoInputs.cache
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.AssemblyInfo.cs
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.csproj.CoreCompileInputs.cache
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.dll
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\refint\CSDL C# _ Bai tap thuc hanh.dll
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.pdb
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\CSDL C# _ Bai tap thuc hanh.genruntimeconfig.cache
+F:\Phuc\LHU\LHU _ Nam 3 _ hoc ky 2\CSDL C#\CSDL C# _ Bai tap thuc hanh\obj\Debug\net6.0-windows\ref\CSDL C# _ Bai tap thuc hanh.dll

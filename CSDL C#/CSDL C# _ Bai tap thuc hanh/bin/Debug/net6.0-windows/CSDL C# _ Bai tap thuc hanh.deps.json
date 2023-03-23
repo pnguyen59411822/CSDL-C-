@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSDL C# _ Bai tap thuc hanh/1.0.0": {
+        "runtime": {
+          "CSDL C# _ Bai tap thuc hanh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSDL C# _ Bai tap thuc hanh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
